@@ -25,15 +25,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/smee6/leetCode/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/smee6/leetCode/tree/master/0485-max-consecutive-ones) |
 | [0735-asteroid-collision](https://github.com/smee6/leetCode/tree/master/0735-asteroid-collision) |
+| [1552-build-an-array-with-stack-operations](https://github.com/smee6/leetCode/tree/master/1552-build-an-array-with-stack-operations) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/smee6/leetCode/tree/master/0020-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/smee6/leetCode/tree/master/0735-asteroid-collision) |
+| [1552-build-an-array-with-stack-operations](https://github.com/smee6/leetCode/tree/master/1552-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/smee6/leetCode/tree/master/0735-asteroid-collision) |
+| [1552-build-an-array-with-stack-operations](https://github.com/smee6/leetCode/tree/master/1552-build-an-array-with-stack-operations) |
 ## String
 |  |
 | ------- |

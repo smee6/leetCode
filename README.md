@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/smee6/leetCode/tree/master/0169-majority-element) |
 | [0735-asteroid-collision](https://github.com/smee6/leetCode/tree/master/0735-asteroid-collision) |
 ## Stack
 |  |
@@ -36,4 +37,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/smee6/leetCode/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/smee6/leetCode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/smee6/leetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/smee6/leetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/smee6/leetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

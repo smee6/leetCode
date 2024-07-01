@@ -71,4 +71,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/smee6/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/smee6/leetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/smee6/leetCode/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/smee6/leetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/smee6/leetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

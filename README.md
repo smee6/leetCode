@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/smee6/leetCode/tree/master/0169-majority-element) |
+| [0485-max-consecutive-ones](https://github.com/smee6/leetCode/tree/master/0485-max-consecutive-ones) |
 | [0735-asteroid-collision](https://github.com/smee6/leetCode/tree/master/0735-asteroid-collision) |
 ## Stack
 |  |

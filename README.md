@@ -34,17 +34,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/smee6/leetCode/tree/master/0735-asteroid-collision) |
 | [1552-build-an-array-with-stack-operations](https://github.com/smee6/leetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/smee6/leetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2470-removing-stars-from-a-string](https://github.com/smee6/leetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/smee6/leetCode/tree/master/0735-asteroid-collision) |
 | [1552-build-an-array-with-stack-operations](https://github.com/smee6/leetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/smee6/leetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2470-removing-stars-from-a-string](https://github.com/smee6/leetCode/tree/master/2470-removing-stars-from-a-string) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/smee6/leetCode/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/smee6/leetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2470-removing-stars-from-a-string](https://github.com/smee6/leetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Hash Table
 |  |
 | ------- |

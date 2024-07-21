@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/smee6/leetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/smee6/leetCode/tree/master/0485-max-consecutive-ones) |
 | [0735-asteroid-collision](https://github.com/smee6/leetCode/tree/master/0735-asteroid-collision) |
+| [0890-lemonade-change](https://github.com/smee6/leetCode/tree/master/0890-lemonade-change) |
 | [1552-build-an-array-with-stack-operations](https://github.com/smee6/leetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/smee6/leetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/smee6/leetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -128,4 +129,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/smee6/leetCode/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/smee6/leetCode/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->

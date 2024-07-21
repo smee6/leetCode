@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/smee6/leetCode/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/smee6/leetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/smee6/leetCode/tree/master/0485-max-consecutive-ones) |
 | [0735-asteroid-collision](https://github.com/smee6/leetCode/tree/master/0735-asteroid-collision) |
 | [1552-build-an-array-with-stack-operations](https://github.com/smee6/leetCode/tree/master/1552-build-an-array-with-stack-operations) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/smee6/leetCode/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/smee6/leetCode/tree/master/0455-assign-cookies) |
 ## Counting
 |  |
 | ------- |
@@ -118,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/smee6/leetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/smee6/leetCode/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/smee6/leetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->

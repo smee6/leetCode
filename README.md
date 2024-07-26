@@ -130,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/smee6/leetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/smee6/leetCode/tree/master/0890-lemonade-change) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/smee6/leetCode/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/smee6/leetCode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->

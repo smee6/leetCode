@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/smee6/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/smee6/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/smee6/leetCode/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/smee6/leetCode/tree/master/0455-assign-cookies) |
@@ -116,10 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/smee6/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0783-search-in-a-binary-search-tree](https://github.com/smee6/leetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/smee6/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/smee6/leetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Backtracking
 |  |

@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/smee6/leetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/smee6/leetCode/tree/master/0485-max-consecutive-ones) |
 | [0735-asteroid-collision](https://github.com/smee6/leetCode/tree/master/0735-asteroid-collision) |
+| [0792-binary-search](https://github.com/smee6/leetCode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/smee6/leetCode/tree/master/0890-lemonade-change) |
 | [1552-build-an-array-with-stack-operations](https://github.com/smee6/leetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/smee6/leetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/smee6/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0783-search-in-a-binary-search-tree](https://github.com/smee6/leetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0792-binary-search](https://github.com/smee6/leetCode/tree/master/0792-binary-search) |
 ## Matrix
 |  |
 | ------- |
